@@ -31,7 +31,7 @@ Je construis des systèmes qui permettent aux machines de **voir, comprendre et 
 skills = {
     "Deep Learning": ["PyTorch", "TensorFlow", "Hugging Face", "MONAI"],
     "Computer Vision": ["OpenCV", "MediaPipe", "Open3D", "Point-E"],
-    "Langages": ["Python", "C", "Java", "JavaScript"],
+    "Langages": ["Python", "C++", "Java", "JavaScript"],
     "Web": ["React", "Node.js", "Flask", "HTML5", "PHP"],
     "Data": ["NumPy", "Pandas", "Matplotlib"],
     "Outils": ["Git", "Docker", "Linux", "MySQL"],
