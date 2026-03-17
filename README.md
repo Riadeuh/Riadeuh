@@ -1,18 +1,18 @@
-# 👋 Salut, moi c'est Riad Pugenger
+#  Salut, moi c'est Riad Pugenger
 
-🎓 Étudiant en Master 2 Vision et Machine Intelligente @ Université de Paris Cité  
-🔍 À la recherche d'un stage de 4 à 6 mois en Computer Vision / Deep Learning  
-📍 Drancy, France
+ Étudiant en Master 2 Vision et Machine Intelligente @ Université de Paris Cité  
+ À la recherche d'un stage de 4 à 6 mois en Computer Vision / Deep Learning  
+ Drancy, France
 
 ---
 
-## 🧠 Ce que je fais
+##  Ce que je fais
 
 Je construis des systèmes qui permettent aux machines de **voir, comprendre et interagir** avec le monde visuel. Mon terrain de jeu : la vision par ordinateur, le deep learning et la reconstruction 3D.
 
 ---
 
-## 🚀 Projets phares
+##  Projets phares
 
 | Projet | Description | Stack |
 |--------|-------------|-------|
@@ -20,13 +20,13 @@ Je construis des systèmes qui permettent aux machines de **voir, comprendre et 
 | 🛰️ [RSIC](lien) | Génération automatique de légendes pour images satellitaires | Python, PyTorch, Transformers |
 | 🎯 [MOT](lien) | Suivi et ré-identification d'objets dans des flux vidéo | Python, OpenCV |
 | ✏️ [Sketch-to-3D](lien) | Modélisation 3D interactive depuis des dessins à main levée | Python, MediaPipe, Point-E, Open3D |
-| 🧮 [LLM Compare](lien) | Comparaison de modèles de langage | ReactJS, Flask |
-| 📍 [MeetPoint](lien) | Calcul de point de rencontre optimal à équidistance géographique | React, Node.js |
-| 🏗️ [Stair Counter](lien) | Comptage d'escaliers par vision par ordinateur | Python, OpenCV |
+|  [LLM Compare] | Comparaison de modèles de langage | ReactJS, Flask |
+|  [MeetPoint] | Calcul de point de rencontre optimal à équidistance géographique | React, Node.js |
+|  [Stair Counter] | Comptage d'escaliers par vision par ordinateur | Python, OpenCV |
 
 ---
 
-## 🛠️ Stack technique
+##  Stack technique
 ```python
 skills = {
     "Deep Learning": ["PyTorch", "TensorFlow", "Hugging Face", "MONAI"],
@@ -40,11 +40,9 @@ skills = {
 
 ---
 
-## 📚 En ce moment, je travaille sur...
+##  En ce moment, je travaille sur...
 
-- 🤖 Architecture Transformer pour la génération de légendes multimodales
-- 🧬 Segmentation d'images médicales (U-Net, IRM, rétine)
-- 📦 Compression de modèles deep learning (distillation de connaissances)
+- Finetuning de modèles pour continuer l'application [Sketch-to-3D]
 
 ---
 
@@ -57,12 +55,10 @@ skills = {
 
 ## 📫 Me contacter
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/riad-pugenger)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]([https://linkedin.com/in/riad-pugenger](https://www.linkedin.com/in/riad-pugenger-a10083362/))
 [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:riad.pugenger@etu.u-paris.fr)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/Riadeuh)
 
 ---
-
-> *"La vision, c'est voir ce que les autres ne voient pas encore."*
 
 
