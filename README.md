@@ -16,12 +16,12 @@ Je construis des systèmes qui permettent aux machines de **voir, comprendre et 
 
 | Projet | Description | Stack |
 |--------|-------------|-------|
-| 🔍 [CBIR](https://github.com/Riadeuh/Handsketch3D) | Moteur de recherche d'images similaires par CNN | Python, PyTorch, OpenCV |
-| 🛰️ [RSIC](lien) | Génération automatique de légendes pour images satellitaires | Python, PyTorch, Transformers |
-| 🎯 [MOT](lien) | Suivi et ré-identification d'objets dans des flux vidéo | Python, OpenCV |
-| ✏️ [Sketch-to-3D](lien) | Modélisation 3D interactive depuis des dessins à main levée | Python, MediaPipe, Point-E, Open3D |
+| 🔍 [CBIR] | Moteur de recherche d'images similaires par CNN | Python, PyTorch, OpenCV |
+| 🛰️ [RSIC](https://github.com/Riadeuh/Remote-sensing-image-captionning) | Génération automatique de légendes pour images satellitaires | Python, PyTorch, Transformers |
+| 🎯 [MOT](https://github.com/Riadeuh/Multiple_Object_Tracking) | Suivi et ré-identification d'objets dans des flux vidéo | Python, OpenCV |
+| ✏️ [Sketch-to-3D](https://github.com/Riadeuh/Handsketch3D) | Modélisation 3D interactive depuis des dessins à main levée | Python, MediaPipe, Point-E, Open3D |
 |  [LLM Compare] | Comparaison de modèles de langage | ReactJS, Flask |
-|  [MeetPoint] | Calcul de point de rencontre optimal à équidistance géographique | React, Node.js |
+|  [MeetPoint](https://github.com/metux-o0/l2i1-equidistant-place-suggestor) | Calcul de point de rencontre optimal à équidistance géographique | React, Node.js |
 |  [Stair Counter] | Comptage d'escaliers par vision par ordinateur | Python, OpenCV |
 
 ---
