@@ -16,7 +16,7 @@ Je construis des systèmes qui permettent aux machines de **voir, comprendre et 
 
 | Projet | Description | Stack |
 |--------|-------------|-------|
-| 🔍 [CBIR](lien) | Moteur de recherche d'images similaires par CNN | Python, PyTorch, OpenCV |
+| 🔍 [CBIR]([lien](https://github.com/Riadeuh/Handsketch3D)) | Moteur de recherche d'images similaires par CNN | Python, PyTorch, OpenCV |
 | 🛰️ [RSIC](lien) | Génération automatique de légendes pour images satellitaires | Python, PyTorch, Transformers |
 | 🎯 [MOT](lien) | Suivi et ré-identification d'objets dans des flux vidéo | Python, OpenCV |
 | ✏️ [Sketch-to-3D](lien) | Modélisation 3D interactive depuis des dessins à main levée | Python, MediaPipe, Point-E, Open3D |
